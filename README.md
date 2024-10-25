@@ -1,1 +1,1 @@
-# kalgulator
+# kalgulator-simpel
